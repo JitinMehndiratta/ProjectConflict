@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataKitObjectDependency xmlns="http://soap.sforce.com/2006/04/metadata">
+    <dataPackageKitDef>FinSVCDatakit</dataPackageKitDef>
+    <developerName>SalesforceDotCom_DKConnection</developerName>
+    <masterLabel>Salesforce Connector DatakitTeam.com DKConnection</masterLabel>
+    <sourceObject>Account_DKConnection_1744033647291</sourceObject>
+    <sourceObjectType>DataStreamTemplate</sourceObjectType>
+    <targetObject>SalesforceDotCom_DKConnection</targetObject>
+</DataKitObjectDependency>

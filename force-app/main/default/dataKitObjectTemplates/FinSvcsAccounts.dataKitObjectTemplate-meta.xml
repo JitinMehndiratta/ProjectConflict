@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataKitObjectTemplate xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <developerName xsi:nil="true"/>
+    <entityPayload>{&quot;displayName&quot;:&quot;FinSvcsAccounts&quot;,&quot;segmentOnLabel&quot;:&quot;Individual&quot;,&quot;segmentOnIsUnified&quot;:false,&quot;type&quot;:&quot;UI&quot;,&quot;segmentOnApiName&quot;:&quot;FIN_Individual__dlm&quot;,&quot;developerName&quot;:&quot;FinSvcsAccounts&quot;,&quot;segmentOnSourceApiName&quot;:&quot;FIN_Individual__dlm&quot;,&quot;tokensMap&quot;:{&quot;dmoMap&quot;:{&quot;FIN_Individual__dlm&quot;:&quot;FIN_Individual__dlm&quot;}}}</entityPayload>
+    <masterLabel>FinSvcsAccounts</masterLabel>
+    <parentDataPackageKitDefinitionName xsi:nil="true"/>
+    <sourceObject>FinSvcsAccounts</sourceObject>
+    <sourceObjectType>MarketSegment</sourceObjectType>
+    <templateVersion>1</templateVersion>
+</DataKitObjectTemplate>
